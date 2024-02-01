@@ -1,0 +1,63 @@
+// https://read.learnyard.com/square-star-and-rhombus-start-patterns/
+// https://read.learnyard.com/triangle-pattern/
+// https://read.learnyard.com/pyramid-star-pate/
+// https://read.learnyard.com/miscellaneous-star-pattern/
+// https://read.learnyard.com/number-patterns/
+// https://read.learnyard.com/number-patterns-2/
+// https://read.learnyard.com/triangular-number-patterns/
+// https://read.learnyard.com/triangular-num-pattern-2/
+// https://read.learnyard.com/triangular-num-patterns-3/
+// https://read.learnyard.com/loops-2/
+// https://read.learnyard.com/loops-3/
+
+
+https://www.geeksforgeeks.org/problems/sum-of-array2326/1
+https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1
+https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
+https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1 
+https://leetcode.com/problems/number-of-employees-who-met-the-target/description/
+https://leetcode.com/problems/number-of-good-pairs/description/
+
+
+https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1
+https://codeforces.com/problemset/problem/1711/A
+https://www.codechef.com/problems/MAXCOUNT
+https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1 (Try to search how to create and return an ArrayList (or a vector if C++ people are trying the problems) )
+https://leetcode.com/problems/count-elements-with-maximum-frequency/description/
+
+https://leetcode.com/problems/minimum-number-game/description/ (Good Problem)
+https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/make-it-non-decreasing-7d3391fd/
+
+https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1
+https://codeforces.com/problemset/problem/1711/A
+https://www.codechef.com/problems/MAXCOUNT
+https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1 (Try to search how to create and return an ArrayList (or a vector if C++ people are trying the problems) )
+https://leetcode.com/problems/count-elements-with-maximum-frequency/description/
+
+https://leetcode.com/problems/minimum-number-game/description/ (Good Problem)
+https://www.hackerearth.com/practice/data-structures/arrays/1-d/practice-problems/algorithm/make-it-non-decreasing-7d3391fd/ 
+
+https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/submissions/1149782711/
+https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=daily-question&envId=2024-01-17
+https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
+https://codeforces.com/problemset/problem/1656/A (Good one - Take a notebook, draw the number line and apply some brain)
+https://codeforces.com/problemset/problem/300/A (Good one again, work up those brain cells)
+
+https://www.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1
+https://leetcode.com/problems/richest-customer-wealth/
+https://www.geeksforgeeks.org/problems/sums-of-i-th-row-and-i-th-column3054/1 (Read Your Task carefully if the problem is not clear)
+https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1
+https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/
+https://leetcode.com/problems/plus-one/ (Good one from 1D Array)
+
+ Note for C++ folks: Treat vector as a 2D array only. If vector name is v, then simply use int r = v.size() to get number of rows, and int c = v[0].size() to get number of columns, details of vectors will be covered in DSA
+
+ https://www.geeksforgeeks.org/problems/count-sorted-rows2702/1
+https://leetcode.com/problems/matrix-diagonal-sum/description/
+https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1
+https://leetcode.com/problems/transpose-matrix/description/
+https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/
+https://leetcode.com/problems/spiral-matrix/description/ (Spiral Print)
+https://leetcode.com/problems/rotate-image/description/ (You can ignore in-place for now. If you wish to, then you can try also)
+https://leetcode.com/problems/toeplitz-matrix/description/ (Good one)
+https://www.geeksforgeeks.org/problems/print-matrix-in-diagonal-pattern/1 (Good one) 
